@@ -53,8 +53,9 @@
 </ul>
 <h4>Adb setup</h4>
 <ul>
-    <li> Download ADB device from the <a href="https://www.xda-developers.com/install-adb-windows-macos-linux/">Link</a></li>
+    <li> Download ADB device from the <a href="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/adb.zip">Link 1</a> or <a href="https://www.xda-developers.com/install-adb-windows-macos-linux/">Link 2</a></li>
     <li>Extract the zip</li>
+    <li>For windows verify that your adb.exe is of size 922kb</li>
     <li>Add the extacted folder to your environmental varialbe path. For help refer this <a href="https://youtu.be/83SccoBYSfA?t=54">Video</a></li>
     <li>To check open Command propmt and type adb you will get a list of options.</li>
 </ul>

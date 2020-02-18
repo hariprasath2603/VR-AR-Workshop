@@ -45,6 +45,12 @@
 </ul>
 
 <h2>Other setup</h2>
+<h4>Android studio</h4>
+<ul>
+    <li>Install android studio form <a href="https://developer.android.com/studio">Here</a></li>
+    <li>No need to install virtual device</li>
+    
+</ul>
 <h4>Adb setup</h4>
 <ul>
     <li> Download ADB device from the <a href="https://www.xda-developers.com/install-adb-windows-macos-linux/">Link</a></li>
@@ -68,6 +74,8 @@
     <li>Unity Hub</li>
     <li>Unity 2019.2.2x</li>
     <li>Visual studio</li>
+    <li>Android studio</li>
     <li>Adb</li>
     <li>Oculus utility</li>
 </ul>
+<p>If everything works fine then you are ready to rock..!!</p>

@@ -27,9 +27,11 @@
     <li>Then activate new license
         <br>
         <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/03.png">    
-        <br>
-        <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/04.png">
     </li>
+    <li>Go back 
+            <br>
+        <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/04.png">
+ </li> 
     <li>Then add softwares
         <ul><li>Unity - 2019.2.2x
             <br><img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/05.png">

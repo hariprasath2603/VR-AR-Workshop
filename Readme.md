@@ -27,10 +27,11 @@
     <li>Then activate new license
         <br>
         <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/03.png">    
+                    <br>
+        <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/04.png">
+
     </li>
     <li>Go back 
-            <br>
-        <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/04.png">
  </li> 
     <li>Then add softwares
         <ul><li>Unity - 2019.2.2x
@@ -84,5 +85,7 @@
     <li>Android studio</li>
     <li>Adb</li>
     <li>Oculus utility</li>
+    <li>Spark Ar</li>
+    <li>Vuforia sdk</li>
 </ul>
 <p>If everything works fine then you are ready to rock..!!</p>

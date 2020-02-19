@@ -29,7 +29,6 @@
         <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/03.png">    
                     <br>
         <img src="https://raw.githubusercontent.com/hariprasath2603/VR-AR-Workshop/master/img/04.png">
-
     </li>
     <li>Go back 
  </li> 

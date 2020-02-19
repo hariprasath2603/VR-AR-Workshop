@@ -68,7 +68,11 @@
 </ul>
 <h4>Oculus Utility</h4>
 <p>Download zip from the <a href="https://drive.google.com/file/d/1iJAjsLcsKggfDUldpzMU-UT2dp4paUPn/view?usp=sharing">Link 1</a> or <a href="https://developer.oculus.com/downloads/package/oculus-utilities-for-unity-5/">Link 2</a> and extract it for future use</p>
-
+<h4>Ar setup </h4>
+   <ul>
+       <li>Download Vuforia sdk (add-vuforia-package-8-6-10.unitypackage (2.29 KB)) in the following <a href="https://developer.vuforia.com/downloads/sdk">Link </a></li>
+       <li>Download Spark Ar in the following <a href="https://sparkar.facebook.com/ar-studio/download/">Link </a></li>
+    </ul>
 <h2>Check List</h2>
 <p>Make sure you have the following</p>
 <ul>
